@@ -1,0 +1,5 @@
+ - create service account
+ - add permissions to write to cloud trace
+ - create new json key
+ - download json key and add to repo
+ - rename key to "key.json"
